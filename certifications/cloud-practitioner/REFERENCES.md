@@ -65,11 +65,15 @@
 - [Amazon EC2 Spot Instances](https://aws.amazon.com/ec2/spot/)
 
 
-## Other resources
-
+## More resources
 - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
-- [Solutions Architect Learning Plan](https://explore.skillbuilder.aws/learn/learning_plan/view/1044/solutions-architect-learning-plan)
+
+### By Certification
 - [Cloud Essentials Learning Plan](https://explore.skillbuilder.aws/learn/lp/82/Cloud%2520Essentials%2520Learning%2520Plan%2520-%2520Earn%2520a%2520Learning%2520Badge)
+- [Solutions Architect Learning Plan](https://explore.skillbuilder.aws/learn/learning_plan/view/1044/solutions-architect-learning-plan)
+
+### Main Topics
 - [6 Steps for Planning a Cloud Strategy](https://www.gartner.com/smarterwithgartner/6-steps-for-planning-a-cloud-strategy)
 - [What is Cloud Computing? Strategies and Importance for Business](https://www.gartner.com/en/topics/cloud)
 - [AWS Ramp-Up Guide: Decision Maker ](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Decision_Maker.pdf)
+
