@@ -2,8 +2,10 @@
 
 ## Coding
 ```bash
-# Upload the local folder html5up-solid-sate to the bucket called polo-cloud-resume-challenge
-aws s3 sync html5up-solid-state/ s3://polo-cloud-resume-challenge
+# Upload the local folder html5up-solid-sate to the bucket defined in the variable $YOUR_CLOUD_RESUME_BUCKET
+
+YOUR_CLOUD_RESUME_BUCKET="<HERE_SET_YOUR_BUCKET_NAME>"
+aws s3 sync html5up-solid-state/ s3://$YOUR_CLOUD_RESUME_BUCKET
 ```
 
 ## Steps
@@ -35,11 +37,7 @@ aws s3 sync html5up-solid-state/ s3://polo-cloud-resume-challenge
 }
 ```
 
-### Creaet the bucket in version 2
-- After create the bucket go to CloudFront
-- Create a distribution
-- Choose an origin domain, your resume challenge domain
-- Choose Origin access control settings (recommended)
+
 
 
 
